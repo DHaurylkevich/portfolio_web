@@ -10,6 +10,13 @@
     --bs-nav-link-hover-color: #3A86FF;
 }
 
+.progress-bar {
+    color: #FF0000;
+}
+a {
+    text-decoration: none;
+  }
+
 .btn {
     --bs-btn-font-weight: 800;
     border-radius: 50px;
@@ -43,8 +50,8 @@ body {
 }
 
 section {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 55px;
+    padding-bottom: 55px;
 }
 
 .class-about {
@@ -57,11 +64,11 @@ section {
 }
 
 .carousel-control-prev-icon {
-    background-image: url(imgg/back.svg);
+    background-image: url(img1/backkk.svg);
 }
 
 .carousel-control-next-icon {
-    background-image: url(imgg/next.svg);
+    background-image: url(img1/nexttt.svg);
 }
 
 .carousel-control-prev,
@@ -97,4 +104,8 @@ section {
     background-color: #a6a6ffb3;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+.contacts{
+    background-color: #c3c3ffb3;
 }
